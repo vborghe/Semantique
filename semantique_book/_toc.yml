@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: intro
+- file: syllabus
+- file: neurolang
+  sections:
+    - file: neuro
+    - file: lang
+- file: methods
+  sections:
+    - file: neuropsy
+    - file: neuroimg
+- file: neuroling
+  sections:
+    - file: spea_lis
+    - file: read_write
+    - file: lex_sem  
+- file: conclusions
+- file: acknowledgements
+- file: codeofconduct
+- file: references
