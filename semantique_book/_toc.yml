@@ -1,20 +1,21 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-- file: intro
+format: jb-article
+root: intro
+sections:
 - file: syllabus
-- file: neurolang
+- file: prerequis
   sections:
-    - file: neuro
-    - file: lang
-- file: methods
+  - file: methodes
+  - file: cerveau
+- file: memoire
   sections:
-    - file: neuropsy
-    - file: neuroimg
-- file: neuroling
+  - file: spea_lis
+  - file: read_write
+  - file: lex_sem
+- file: langage
   sections:
-    - file: spea_lis
-    - file: read_write
-    - file: lex_sem  
+  - file: spea_lis
+  - file: read_write
+  - file: lex_sem
 - file: conclusions
 - file: acknowledgements
 - file: codeofconduct
