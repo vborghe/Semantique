@@ -11,42 +11,24 @@ Contact:
 ######  Prerequisites:
 coming soon
 
-###### Learning Outcomes:
-1. Acquisition of updated knowledge on the neural bases of language. We will cover the functional and structural neural correlates of brain networks underlying language processing at different levels: phonological, semantic, syntactic, etc.
-2. Develop scientific reasoning integrating experimental methods and the various language issues (different cerebral imaging techniques and what they allow to study, cerebral representation of different levels of language processing).
+###### Objectifs:
+coming soon
 
 ###### Description:
-The course is made up of 7 sections:
-* Overview of developmental, acquired, and neurodegenerative disorders affecting language (week 1 and 2)
-* Overview of neuroimaging techniques and experimental paradigms that can be used to study language (week 3 and 4) 
-* Speech perception and production (week 5 and 6)
-* Reading and writing (week 7 and 8)
-* Sign language (week 9)
-* Semantic (week 10 and 11)
-* Syntax and discourse (week 12 and 13)
+Ce cours porte sur les bases neurales de la semantique dans une approche multi-disciplinaire, intégrant les résultats neuropsychologiques et de neuroimagerie.
 
-###### Tools
-Throughout the course we will be using the following tools:
-* This jupyterbook and all the links here provided
-* Ad-hoc slack channel (coming up)
-* Zoom
-* GoogleDrive
+###### Outils & Bibliographie: 
+coming soon
 
-Please contact the instructor if you have any issue of access/availability with any of these software/platforms.
+###### Schedule-driven grading:
+Contrôle continu.
+•	Questionnaires hebdomadaires à remplir en ligne (40% of grade). Il s'agira de remplir des questionnaires à choix multiples sur le matériel présenté en cours, y compris le contenu des présentations des chercheurs invités.
+•	Examen écrit à la fin du cours (40% de la note).
+•	Présentation orale d'un article scientifique et participation active en class (20% de la note).
 
-###### Schedule-driven grading
-All students start the course with 100 points, and lose 2 points for every assignment that they don’t complete, discussion they don't participate in, syncronous meeeting they don't attend. 
-Continuous monitoring.
-•	Weekly questionnaires to be completed online (40% of grade). This will involve completing multiple-choice quizzes on the material presented in class, including the content of the guest scholars' presentations.
-•	Written exam at the end of the course (40% of the mark).
-•	Oral presentation of a scientific article and active participation in class (20% of the mark).
+###### Commentaires:
+La présence aux cours (que ce soit en ligne ou en personne) est recommandée: la participation active sera soigneusement surveillée et évaluée par l'instructeur. Parfois, il y aura des vidéos à regarder, ainsi que des lectures et des questionnaires à faire avant chaque cours.
 
-
-###### Flipped classroom
-There are no standard lectures. Pre-recorded lecture videos and readings are provided. Students are required to watch/read them and complete a few questions. Weekly synchronous meetings are of two kinds
-* Q&A - I answer questions previously posted online and on-the-spot ones
-* Students-lead discussions around a predefined topic/problem
-* Problem-solving or tutorials
 
 ###### Further readings and acknowledgments 
 * https://www.maastrichtuniversity.nl/education/why-um/problem-based-learning

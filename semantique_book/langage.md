@@ -1,8 +1,8 @@
 Le Langage
 =======================
 
-######  Basis of Neuroanatomy
-We will learn (or revise) basic concept of neuroanatomy.
+###### Input & Output
+xxxx
 
-###### Language and Linguistics
-We will discuss the role of language and its scientific investigation, including an introduction to the field of linguistics. 
+###### Contenu
+xxxx

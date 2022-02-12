@@ -7,7 +7,14 @@ sections:
   - file: methodes
   - file: cerveau
 - file: memoire
+  sections:
+  - file: court
+  - file: travail
+  - file: long
 - file: langage
+  sections:
+  - file: inout
+  - file: contenu
 - file: conclusions
 - file: acknowledgements
 - file: codeofconduct
