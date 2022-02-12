@@ -1,8 +1,8 @@
 Introduction
 =======================
 
-I would like to use this jupyterbook as living teaching material. 
+Je voudrais utiliser ce jupyterbook comme matériel pédagogique vivant.
 
 ```{warning}
-This is a work in progress. Please contact me if interested in future updates.
+C'est un travail en cours de réalisation. S'il vous plaît contactez-moi si vous êtes intéressé par les futures mises à jour.
 ```
